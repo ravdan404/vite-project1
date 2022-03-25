@@ -1,0 +1,34 @@
+{
+  "userData": [
+    {
+      "id": 1,
+      "fname": "Radla",
+      "email": "Amraa@gmail.com",
+      "gender": "male"
+    },
+    {
+      "fname": "TaycBig",
+      "email": "taycbig@gmail.com",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "fname": "ravdan",
+      "email": "ravdan@gmail.com",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "fname": "ravdan",
+      "email": "ravdan404@gmail.com",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "fname": "ravdan666s",
+      "email": "ravdan666@gmail.com",
+      "gender": "male",
+      "id": 5
+    }
+  ]
+}
